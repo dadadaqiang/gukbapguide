@@ -22,6 +22,10 @@ enableEmoji = true
   filename = 'sitemap.xml'
   priority = 0.5
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-1R3KWP65H9"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
