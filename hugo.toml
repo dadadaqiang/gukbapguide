@@ -1,0 +1,164 @@
+baseURL = 'https://e83b649c.gukbapguide.pages.dev'
+locale = 'en-US'
+title = 'Gukbap Guide — The Ultimate Guide to Korean Soup Rice'
+theme = 'blowfish'
+defaultContentLanguage = 'en'
+enableRobotsTXT = true
+summaryLength = 0
+buildDrafts = false
+enableEmoji = true
+
+[pagination]
+  pagerSize = 100
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+
+[params]
+  colorScheme = "ocean"
+  defaultAppearance = "light"
+  autoSwitchAppearance = true
+  enableSearch = true
+  enableCodeCopy = true
+  enableStructuredBreadcrumbs = true
+  description = "Everything about gukbap (Korean soup rice): what it is, types, recipes, where to eat, and buying guides."
+  dateFormat = "2 January 2006"
+  # copyright = "© 2026 Gukbap Guide. All rights reserved."
+
+  [params.header]
+    layout = "basic"
+
+  [params.footer]
+    showMenu = true
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = true
+    showScrollToTop = true
+
+  [params.homepage]
+    layout = "page"
+    showRecent = true
+    showRecentItems = 8
+    cardView = true
+
+  [params.article]
+    showDate = true
+    showAuthor = false
+    showBreadcrumbs = true
+    showReadingTime = true
+    showTableOfContents = true
+    showTaxonomies = true
+    showCategories = true
+    showTags = true
+    showWordCount = true
+    showPagination = true
+    showRelatedContent = true
+    relatedContentLimit = 3
+
+  [params.list]
+    showBreadcrumbs = true
+    showSummary = true
+    showCards = true
+    groupByYear = false
+    cardView = true
+
+  [params.taxonomy]
+    showTermCount = true
+    cardView = true
+
+  [params.term]
+    showBreadcrumbs = true
+    cardView = true
+    groupByYear = false
+
+  [params.sitemap]
+    excludedKinds = ["taxonomy", "term"]
+
+  [params.seo]
+    metaDescriptionOrder = ["description", "summary", "site"]
+
+[[menus.main]]
+  name = "Guides"
+  pageRef = "guides"
+  weight = 10
+
+[[menus.main]]
+  name = "Cities"
+  pageRef = "cities"
+  weight = 20
+
+[[menus.main]]
+  name = "Recipes"
+  pageRef = "recipes"
+  weight = 30
+
+[[menus.main]]
+  name = "Shop"
+  pageRef = "shopping"
+  weight = 40
+
+[[menus.main]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
+
+[[menus.footer]]
+  name = "Guides"
+  pageRef = "guides"
+  weight = 10
+
+[[menus.footer]]
+  name = "Cities"
+  pageRef = "cities"
+  weight = 20
+
+[[menus.footer]]
+  name = "Recipes"
+  pageRef = "recipes"
+  weight = 30
+
+[[menus.footer]]
+  name = "Shop"
+  pageRef = "shopping"
+  weight = 40
+
+[[menus.footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 50
+
+[[menus.footer]]
+  name = "Privacy"
+  pageRef = "privacy"
+  weight = 60
+
+[[menus.footer]]
+  name = "Affiliate Disclosure"
+  pageRef = "affiliate-disclosure"
+  weight = 70
