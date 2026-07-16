@@ -1,0 +1,13 @@
+disabled = false
+locale = "en-US"
+label = "English"
+weight = 1
+title = "Gukbap Guide — The Ultimate Guide to Korean Soup Rice"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Everything about gukbap (Korean soup rice): what it is, types, recipes, where to eat, and buying guides."
+  copyright = "© {year} Gukbap Guide. All rights reserved."
