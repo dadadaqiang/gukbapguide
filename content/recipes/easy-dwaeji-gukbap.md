@@ -6,7 +6,7 @@ tags: ["dwaeji gukbap recipe", "pork soup rice recipe", "easy korean recipe", "b
 cook_time: 30
 servings: 2
 featureimage: "https://images.unsplash.com/photo-1555126634-323283e090fa?w=1200&q=80"
-og_image: "/images/recipes/easy-dwaeji-gukbap.jpg"
+og_image: "https://images.unsplash.com/photo-1555126634-323283e090fa?w=1200&q=80"
 ---
 
 This is a **simplified 30-minute version** of Busan's legendary dwaeji gukbap. While traditional versions simmer pork bones for hours, we use a combination of pork belly and pre-made broth to achieve that same rich, savory flavor in a fraction of the time.

@@ -4,7 +4,7 @@ description: "Where to find authentic gukbap in NYC, from Koreatown in Midtown t
 date: 2026-07-16T00:00:00Z
 tags: ["best gukbap nyc", "gukbap new york", "korean food nyc"]
 featureimage: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80"
-og_image: "/images/cities/new-york.jpg"
+og_image: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80"
 ---
 
 New York City has the second-largest Korean population of any US city (after LA), and its Korean food scene is thriving. While Manhattan's Koreatown (K-Town) is the most famous hub, the real gems are often found in Murray Hill and Northern New Jersey.

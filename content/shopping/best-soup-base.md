@@ -4,7 +4,7 @@ description: "The best Korean soup base packets and broths for making authentic 
 date: 2026-07-16T00:00:00Z
 tags: ["korean soup base", "gukbap broth", "korean cooking ingredients"]
 featureimage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
-og_image: "/images/shopping/soup-base.jpg"
+og_image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
 ---
 
 Making gukbap from scratch is rewarding, but sometimes you need a shortcut. These Korean soup base products deliver authentic flavor with minimal effort — perfect for weeknight gukbap cravings.

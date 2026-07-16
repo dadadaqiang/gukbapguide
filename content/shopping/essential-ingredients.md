@@ -4,7 +4,7 @@ description: "A complete guide to essential Korean ingredients for making authen
 date: 2026-07-16T00:00:00Z
 tags: ["korean cooking ingredients", "gukbap ingredients", "korean pantry"]
 featureimage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
-og_image: "/images/shopping/ingredients.jpg"
+og_image: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
 ---
 
 Building a Korean pantry is the first step to making great gukbap at home. Here are the essential ingredients every gukbap cook should have, along with our top Amazon picks.

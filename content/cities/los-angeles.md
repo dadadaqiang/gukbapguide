@@ -4,7 +4,7 @@ description: "Where to find the best gukbap in Los Angeles — from Koreatown to
 date: 2026-07-16T00:00:00Z
 tags: ["los angeles gukbap", "best gukbap la", "koreatown gukbap"]
 featureimage: "https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=1200&q=80"
-og_image: "/images/cities/los-angeles.jpg"
+og_image: "https://images.unsplash.com/photo-1580655653885-65763b2597d0?w=1200&q=80"
 ---
 
 Los Angeles has one of the largest and most vibrant Korean food scenes outside of Korea. With Koreatown (K-Town) at its heart and Korean restaurants spreading throughout the metro area, LA is arguably **the best city in the US to eat gukbap**.

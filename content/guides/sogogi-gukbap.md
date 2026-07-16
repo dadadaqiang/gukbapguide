@@ -4,7 +4,7 @@ description: "Discover sogogi gukbap: Korea's beef soup rice, a rich and savory 
 date: 2026-07-16T00:00:00Z
 tags: ["sogogi gukbap", "beef soup rice", "korean beef soup"]
 featureimage: "https://images.unsplash.com/photo-1603071970220-5a44df0fdf3c?w=1200&q=80"
-og_image: "/images/guides/sogogi-gukbap.jpg"
+og_image: "https://images.unsplash.com/photo-1603071970220-5a44df0fdf3c?w=1200&q=80"
 ---
 
 ## What Is Sogogi Gukbap?

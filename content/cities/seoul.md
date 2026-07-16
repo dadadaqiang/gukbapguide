@@ -4,7 +4,7 @@ description: "Where to find the best gukbap in Seoul, from historic Jongno joint
 date: 2026-07-16T00:00:00Z
 tags: ["best gukbap seoul", "seoul gukbap", "korean food seoul"]
 featureimage: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200&q=80"
-og_image: "/images/cities/seoul.jpg"
+og_image: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200&q=80"
 ---
 
 Seoul is the epicenter of Korean food culture, and gukbap is no exception. With thousands of restaurants across the city's 25 districts, finding the best bowls requires some guidance. Here's our district-by-district breakdown.

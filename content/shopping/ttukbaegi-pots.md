@@ -4,7 +4,7 @@ description: "The best Korean ttukbaegi earthenware pots on Amazon — perfect f
 date: 2026-07-16T00:00:00Z
 tags: ["ttukbaegi", "korean stone pot", "earthenware pot", "korean cookware"]
 featureimage: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=1200&q=80"
-og_image: "/images/shopping/ttukbaegi.jpg"
+og_image: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=1200&q=80"
 ---
 
 **Ttukbaegi (뚝배기)** — Korean earthenware pots — are the traditional vessel for serving gukbap. They retain heat incredibly well, keeping your soup bubbling hot from first bite to last. Beyond gukbap, they're used for jjigae, bibimbap, and countless other Korean dishes.

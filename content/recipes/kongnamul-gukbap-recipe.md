@@ -6,7 +6,7 @@ tags: ["kongnamul gukbap recipe", "bean sprout soup recipe", "jeonju recipe", "k
 cook_time: 25
 servings: 2
 featureimage: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80"
-og_image: "/images/recipes/kongnamul-gukbap-recipe.jpg"
+og_image: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80"
 ---
 
 Kongnamul gukbap is one of the most refreshing Korean soups you can make. Unlike the heavy, collagen-rich broths of dwaeji gukbap or seolleongtang, this dish is **light, clean, and packed with crunchy texture** from generous amounts of bean sprouts.

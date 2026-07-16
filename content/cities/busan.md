@@ -4,7 +4,7 @@ description: "Busan is the birthplace of dwaeji gukbap. Here's where to find the
 date: 2026-07-16T00:00:00Z
 tags: ["best gukbap busan", "busan food", "dwaeji gukbap busan"]
 featureimage: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=1200&q=80"
-og_image: "/images/cities/busan.jpg"
+og_image: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=1200&q=80"
 ---
 
 Busan is **the spiritual home of dwaeji gukbap**. While you can find the dish throughout Korea, it originated here, and the city takes its pork soup rice very seriously. A trip to Busan without eating dwaeji gukbap is practically a wasted trip.

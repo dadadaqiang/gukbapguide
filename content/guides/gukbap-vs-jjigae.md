@@ -4,7 +4,7 @@ description: "What's the difference between gukbap, jjigae, tang, and jjim? A co
 date: 2026-07-16T00:00:00Z
 tags: ["gukbap vs jjigae", "korean soup types", "korean food terminology"]
 featureimage: "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=1200&q=80"
-og_image: "/images/guides/gukbap-vs-jjigae.jpg"
+og_image: "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?w=1200&q=80"
 ---
 
 One of the most confusing aspects of Korean cuisine for newcomers is the terminology. Gukbap, jjigae, tang, jjim, guk, jeongol — what's the difference?
