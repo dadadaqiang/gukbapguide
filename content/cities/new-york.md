@@ -2,6 +2,7 @@
 title: "Best Gukbap in New York City"
 description: "Where to find authentic gukbap in NYC, from Koreatown in Midtown to Murray Hill and beyond."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80"]
 tags: ["best gukbap nyc", "gukbap new york", "korean food nyc"]
 featureimage: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80"
 og_image: "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?w=1200&q=80"

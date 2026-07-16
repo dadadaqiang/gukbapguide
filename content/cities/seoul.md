@@ -2,6 +2,7 @@
 title: "Best Gukbap in Seoul — A District-by-District Guide"
 description: "Where to find the best gukbap in Seoul, from historic Jongno joints to modern Mapo hotspots."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200&q=80"]
 tags: ["best gukbap seoul", "seoul gukbap", "korean food seoul"]
 featureimage: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200&q=80"
 og_image: "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=1200&q=80"

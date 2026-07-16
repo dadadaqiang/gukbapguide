@@ -2,6 +2,7 @@
 title: "Sundae Gukbap Recipe — Hearty Korean Blood Sausage Soup Rice"
 description: "A step-by-step recipe for making sundae gukbap at home with store-bought sundae."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80"]
 tags: ["sundae gukbap recipe", "blood sausage soup", "korean comfort food recipe"]
 cook_time: 20
 servings: 2

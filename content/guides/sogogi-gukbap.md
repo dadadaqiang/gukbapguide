@@ -2,6 +2,7 @@
 title: "Sogogi Gukbap (Beef Soup Rice) — A Rich and Hearty Classic"
 description: "Discover sogogi gukbap: Korea's beef soup rice, a rich and savory dish that's perfect for cold days."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1603071970220-5a44df0fdf3c?w=1200&q=80"]
 tags: ["sogogi gukbap", "beef soup rice", "korean beef soup"]
 featureimage: "https://images.unsplash.com/photo-1603071970220-5a44df0fdf3c?w=1200&q=80"
 og_image: "https://images.unsplash.com/photo-1603071970220-5a44df0fdf3c?w=1200&q=80"

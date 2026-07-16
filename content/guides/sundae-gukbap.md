@@ -2,6 +2,7 @@
 title: "Sundae Gukbap (Blood Sausage Soup Rice) — A Korean Comfort Classic"
 description: "Everything about sundae gukbap: the hearty Korean blood sausage soup rice that's perfect for any season."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80"]
 tags: ["sundae gukbap", "blood sausage soup rice", "korean comfort food"]
 featureimage: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80"
 og_image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1200&q=80"

@@ -2,6 +2,7 @@
 title: "Easy Dwaeji Gukbap Recipe (30-Minute Version)"
 description: "Make authentic Busan-style dwaeji gukbap at home in just 30 minutes with this simplified recipe."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1555126634-323283e090fa?w=1200&q=80"]
 tags: ["dwaeji gukbap recipe", "pork soup rice recipe", "easy korean recipe", "busan recipe"]
 cook_time: 30
 servings: 2

@@ -2,6 +2,7 @@
 title: "Kongnamul Gukbap Recipe — Authentic Jeonju-Style Bean Sprout Soup Rice"
 description: "Learn how to make authentic Jeonju-style kongnamul gukbap with this step-by-step recipe."
 date: 2026-07-16T00:00:00Z
+images: ["https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80"]
 tags: ["kongnamul gukbap recipe", "bean sprout soup recipe", "jeonju recipe", "korean soup recipe"]
 cook_time: 25
 servings: 2
