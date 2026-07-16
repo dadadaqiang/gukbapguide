@@ -1,0 +1,48 @@
+baseURL = 'https://gukbapguide.com'
+locale = 'en-US'
+title = 'Gukbap Guide — The Ultimate Guide to Korean Soup Rice'
+theme = 'minimal'
+defaultContentLanguage = 'en'
+enableGitInfo = false
+# Remove disableLanguages — only English so no need.
+
+[params]
+  description = "Everything about gukbap (Korean soup rice): what it is, types, recipes, where to eat, and buying guides."
+  author = "Gukbap Guide"
+  # Social
+  x_handle = "@gukbapguide"
+
+[outputs]
+  home = ['HTML', 'RSS']
+  section = ['HTML', 'RSS']
+  page = ['HTML']
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[permalinks]
+  guides = '/guides/:slug/'
+  cities = '/cities/:slug/'
+  recipes = '/recipes/:slug/'
+  shopping = '/shopping/:slug/'
+  posts = '/:slug/'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # allow inline HTML for affiliate cards etc.
+
+[mediaTypes]
+  [mediaTypes.'application/schema+json']
+    suffixes = ['json']
+
+[outputFormats]
+  [outputFormats.SCHEMA]
+    mediaType = 'application/schema+json'
+    baseName = 'schema'
+
+[minify]
+  minifyOutput = true
+
+buildDrafts = false
