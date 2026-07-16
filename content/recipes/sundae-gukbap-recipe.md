@@ -5,7 +5,8 @@ date: 2026-07-16T00:00:00Z
 tags: ["sundae gukbap recipe", "blood sausage soup", "korean comfort food recipe"]
 cook_time: 20
 servings: 2
-og_image: "/images/recipes/sundae-gukbap.jpg"
+featureimage: "/images/recipes/sundae-gukbap-recipe.jpg"
+og_image: "/images/recipes/sundae-gukbap-recipe.jpg"
 ---
 
 This recipe uses **store-bought Korean sundae** (available at Korean grocery stores or frozen online), making it quick and accessible for home cooks.

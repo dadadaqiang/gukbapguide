@@ -5,6 +5,7 @@ date: 2026-07-16T00:00:00Z
 tags: ["dwaeji gukbap recipe", "pork soup rice recipe", "easy korean recipe", "busan recipe"]
 cook_time: 30
 servings: 2
+featureimage: "/images/recipes/easy-dwaeji-gukbap.jpg"
 og_image: "/images/recipes/easy-dwaeji-gukbap.jpg"
 ---
 

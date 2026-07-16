@@ -3,6 +3,7 @@ title: "Gukbap vs Jjigae vs Tang vs Jjim — Korean Soup & Stew Types Explained"
 description: "What's the difference between gukbap, jjigae, tang, and jjim? A complete guide to Korean soup and stew terminology."
 date: 2026-07-16T00:00:00Z
 tags: ["gukbap vs jjigae", "korean soup types", "korean food terminology"]
+featureimage: "/images/guides/gukbap-vs-jjigae.jpg"
 og_image: "/images/guides/gukbap-vs-jjigae.jpg"
 ---
 

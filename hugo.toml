@@ -67,6 +67,8 @@ enableEmoji = true
     showRecentItems = 8
     cardView = true
 
+  defaultFeaturedImage = "/images/guides/dwaeji-gukbap.jpg"
+
   [params.article]
     showDate = true
     showAuthor = false
@@ -80,6 +82,8 @@ enableEmoji = true
     showPagination = true
     showRelatedContent = true
     relatedContentLimit = 3
+    showHero = true
+    heroStyle = "basic"
 
   [params.list]
     showBreadcrumbs = true

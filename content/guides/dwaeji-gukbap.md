@@ -3,6 +3,7 @@ title: "Dwaeji Gukbap (Pork Soup Rice) — Busan's Signature Dish"
 description: "Everything you need to know about dwaeji gukbap: the pork soup rice that put Busan on the culinary map."
 date: 2026-07-16T00:00:00Z
 tags: ["dwaeji gukbap", "pork soup rice", "busan food"]
+featureimage: "/images/guides/dwaeji-gukbap.jpg"
 og_image: "/images/guides/dwaeji-gukbap.jpg"
 ---
 
