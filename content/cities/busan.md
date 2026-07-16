@@ -3,7 +3,7 @@ title: "Best Gukbap in Busan — The Home of Dwaeji Gukbap"
 description: "Busan is the birthplace of dwaeji gukbap. Here's where to find the best bowls in Korea's second city."
 date: 2026-07-16T00:00:00Z
 tags: ["best gukbap busan", "busan food", "dwaeji gukbap busan"]
-featureimage: "/images/cities/busan.jpg"
+featureimage: "https://images.unsplash.com/photo-1578301978693-85fa9c0320b9?w=1200&q=80"
 og_image: "/images/cities/busan.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Vegetarian & Vegan Gukbap — A Complete Guide"
 description: "Can gukbap be vegetarian? Yes! Discover plant-based versions and how to enjoy Korean soup rice without meat."
 date: 2026-07-16T00:00:00Z
 tags: ["vegetarian gukbap", "vegan korean soup", "plant-based korean food"]
-featureimage: "/images/guides/vegetarian-gukbap.jpg"
+featureimage: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=1200&q=80"
 og_image: "/images/guides/vegetarian-gukbap.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Kongnamul Gukbap (Bean Sprout Soup Rice) — Jeonju's Pride"
 description: "A guide to kongnamul gukbap: the refreshing bean sprout soup rice from Jeonju."
 date: 2026-07-16T00:00:00Z
 tags: ["kongnamul gukbap", "bean sprout soup rice", "jeonju food"]
-featureimage: "/images/guides/kongnamul-gukbap.jpg"
+featureimage: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=1200&q=80"
 og_image: "/images/guides/kongnamul-gukbap.jpg"
 ---
 

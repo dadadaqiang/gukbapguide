@@ -67,7 +67,8 @@ enableEmoji = true
     showRecentItems = 8
     cardView = true
 
-  defaultFeaturedImage = "/images/guides/dwaeji-gukbap.jpg"
+  hotlinkFeatureImage = true
+  defaultFeaturedImage = "https://images.unsplash.com/photo-1553163147-622ab57be1c7?w=1200&q=80"
 
   [params.article]
     showDate = true

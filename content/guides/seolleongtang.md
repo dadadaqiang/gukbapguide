@@ -3,7 +3,7 @@ title: "Seolleongtang (Ox Bone Soup) — Korea's Milky White Comfort"
 description: "A complete guide to seolleongtang: the milky ox bone soup that's been warming Korean hearts for centuries."
 date: 2026-07-16T00:00:00Z
 tags: ["seolleongtang", "ox bone soup", "korean soup", "beef bone soup"]
-featureimage: "/images/guides/seolleongtang.jpg"
+featureimage: "https://images.unsplash.com/photo-1547592166-23ac45744acd?w=1200&q=80"
 og_image: "/images/guides/seolleongtang.jpg"
 ---
 

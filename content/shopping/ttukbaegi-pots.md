@@ -3,7 +3,7 @@ title: "Top 5 Ttukbaegi (Korean Earthenware Pots) for Gukbap"
 description: "The best Korean ttukbaegi earthenware pots on Amazon — perfect for serving and cooking gukbap."
 date: 2026-07-16T00:00:00Z
 tags: ["ttukbaegi", "korean stone pot", "earthenware pot", "korean cookware"]
-featureimage: "/images/shopping/ttukbaegi.jpg"
+featureimage: "https://images.unsplash.com/photo-1574484284002-952d92456975?w=1200&q=80"
 og_image: "/images/shopping/ttukbaegi.jpg"
 ---
 

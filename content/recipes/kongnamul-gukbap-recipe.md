@@ -5,7 +5,7 @@ date: 2026-07-16T00:00:00Z
 tags: ["kongnamul gukbap recipe", "bean sprout soup recipe", "jeonju recipe", "korean soup recipe"]
 cook_time: 25
 servings: 2
-featureimage: "/images/recipes/kongnamul-gukbap-recipe.jpg"
+featureimage: "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1200&q=80"
 og_image: "/images/recipes/kongnamul-gukbap-recipe.jpg"
 ---
 

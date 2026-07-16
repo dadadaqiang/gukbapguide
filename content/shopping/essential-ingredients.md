@@ -3,7 +3,7 @@ title: "Essential Ingredients for Making Gukbap at Home"
 description: "A complete guide to essential Korean ingredients for making authentic gukbap, available on Amazon."
 date: 2026-07-16T00:00:00Z
 tags: ["korean cooking ingredients", "gukbap ingredients", "korean pantry"]
-featureimage: "/images/shopping/ingredients.jpg"
+featureimage: "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=1200&q=80"
 og_image: "/images/shopping/ingredients.jpg"
 ---
 
